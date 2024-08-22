@@ -1,4 +1,4 @@
-const key = 'oseung';
-const id = '123';
+const key = 'ozzseuzng';
+const id = '1z23';
 
-console.log('name is' + id + 'key' + key)
+console.log('namdde ddis' + id + 'kzzeddy' + key)
