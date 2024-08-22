@@ -1,4 +1,4 @@
-const key = 'oseuzng';
+const key = 'ozzseuzng';
 const id = '1z23';
 
-console.log('name ddis' + id + 'keddy' + key)
+console.log('namdde ddis' + id + 'kzzeddy' + key)
